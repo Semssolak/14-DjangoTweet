@@ -1,24 +1,24 @@
 # Tweet App
 Tweet App is a social media application built using the Django web framework. With this application, users can create, view, and delete their own tweets.
 
-![Logo](screenshots/logo.png)
+![Logo](djangotweet/screenshots/logo.png)
 
 ## Features
 - **List Tweets:** The home page features an interface that lists all tweets. It displays the title, content, and creation date of tweets.
 
-![Tweet List](screenshots/tweetlist.png)
+![Tweet List](djangotweet/screenshots/tweetlist.png)
 
 - **Add Tweet:** Users can add new tweets by clicking on the "Add Tweet" link.
 
-![Tweet Add Page](screenshots/addtweet.png)
+![Tweet Add Page](djangotweet/screenshots/addtweet.png)
 
 - **Register:** Users can create new accounts.
 
-![Register Page](screenshots/signup.png)
+![Register Page](djangotweet/screenshots/signup.png)
  
 - **Login:** Users can log into the application.
 
-![Login Page](screenshots/login.png)
+![Login Page](djangotweet/screenshots/login.png)
 
 - **Logout:** Authenticated users can log out by clicking the "Logout" link.
 
